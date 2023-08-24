@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Static Pizza Menu
+
+![component-preview](./public/preview.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Made for practicing React fundamentals:
+- Components
+- Rendering lists
+- Props
+- Conditional Styling
+- Conditional content
 
 ## Available Scripts
 
